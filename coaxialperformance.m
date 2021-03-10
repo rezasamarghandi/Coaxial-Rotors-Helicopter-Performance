@@ -1,4 +1,4 @@
-% Coaxial Rotor Helicopters Performance Analysis
+% Coaxial Rotors Helicopters Performance Analysis
 % 
 % Author: Reza Samarghandi 
 % 
