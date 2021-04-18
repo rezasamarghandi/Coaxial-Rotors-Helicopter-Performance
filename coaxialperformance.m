@@ -36,7 +36,7 @@ n=input ('Load Factor For Turn Radius (Use Maximum Load Factor To Find Minimum T
 f=input ('Equivalent Flat Plate Area Of The Fuselage (ft^2) : '); 
 k=input ('Induced power factor (Preferred Value is 1.15) : ');
 kk=input ('Correction parameter (Preferred Value is 4.7) : '); 
-ss=input ('Distance Between Two Rotors (ft) : '); 
+
 
 
 kint=1+sqrt(2); %Induced Power Factor Due To Rotors Overlap
