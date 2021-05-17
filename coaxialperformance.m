@@ -39,7 +39,7 @@ kk=input ('Correction parameter (Preferred Value is 4.7) : ');
 
 
 
-kint=1+sqrt(2); %Induced Power Factor Due To Rotors Overlap
+kint=1.16; %Induced Power Factor Due To Rotors Overlap
 
 omega=rpm*2*pi/60; %Main Rotor Rotational Speed (rad/s)
 vtip=r*omega; %Main Rotor Blade Tip Speed (ft/s)
