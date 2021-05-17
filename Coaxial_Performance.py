@@ -34,7 +34,7 @@ f = float(input("Equivalent Flat Plate Area Of The Fuselage (ft^2) : "))
 k = float(input("Induced power factor (Preferred Value is 1.15) : "))
 kk = float(input("Correction parameter (Preferred Value is 4.7) : "))
 
-kint=1+math.sqrt(2)  # Induced Power Factor Due To Rotors Overlap
+kint=1.16  # Induced Power Factor Due To Rotors Overlap
 
 omega = rpm * 2 * math.pi / 60  # Main Rotor Rotational Speed (rad/s)
 vtip = r * omega  # Main Rotor Blade Tip Speed (ft/s)
